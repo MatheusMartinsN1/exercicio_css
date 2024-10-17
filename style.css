@@ -1,0 +1,38 @@
+
+#entretenimento > h3 {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px  800px 0px 30px;
+    text-align: center;
+}
+
+#entretenimento > h3:hover {
+    background-color: #6441a5;
+}
+
+#entretenimento > p {
+    padding: 0px 0px 0px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#tecnologia > h3 {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px  800px 0px 30px;
+    text-align: center
+}
+
+#tecnologia > h3:hover {
+    background-color: darkgray;
+}
+
+#tecnologia > p {
+    padding: 0px 0px 0px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
